@@ -1,1 +1,1 @@
-[thiagoresende.com](http://thiagoresende.com/)
+[thiagoresende.com](https://thiagoresende.dev/)
