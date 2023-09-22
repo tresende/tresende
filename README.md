@@ -11,4 +11,4 @@
 📸 [Instagram](https://instagram.com/thiago.gcr) <br />
 💼 [LinkedIn](https://www.linkedin.com/in/thiago-resende-46175391) <br />
 
-![profile counter](https://komarev.com/ghpvc/?username=tresende&color=red)
+<!-- ![profile counter](https://komarev.com/ghpvc/?username=tresende&color=red) --!>
