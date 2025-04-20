@@ -6,7 +6,7 @@
 
 ### Find me elsewhere 🌎
 
-🌐 [thiagoresende.dev](https://thiagoresende.com.br) <br />
+🌐 [thiagoresende.dev](https://thiagoresende.dev) <br />
 🐦 [Twitter](https://twitter.com/thiagorgcr) <br />
 📸 [Instagram](https://instagram.com/thiago.gcr) <br />
 💼 [LinkedIn](https://www.linkedin.com/in/thiago-resende-46175391) <br />
